@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Multi Objective Optimization
+description: This course focuses on the theory and methods for optimizing problems with multiple, often conflicting, objectives. Unlike single-objective optimization, where the goal is to find a single optimal solution, multi-objective optimization seeks to balance trade-offs between competing objectives
+img: assets/img/multi.png
+importance: 2
+category: Advanced
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -43,8 +44,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

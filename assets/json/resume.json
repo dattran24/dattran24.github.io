@@ -1,48 +1,43 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dat Ba Tran",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tranbdat@wayne.edu",
+    "url": "https://he9180.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1252 FAB, 646 W Kirby",
+      "postalCode": "MI 48202",
+      "city": "Detroit",
       "countryCode": "US",
-      "region": "California"
+      "region": "MidWest"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Dat Tran",
+        "url": "https://twitter.com/dat-tran-4b778a202"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Mathematics, Wayne State University",
+      "position": "Graduate Research and Teaching Assistant",
+      "url": "https://clasprofiles.wayne.edu/profile/he9180",
+      "startDate": "2020-08-20",
+      "summary": "Teaching at Wayne State University involves preparing and delivering lectures, grading assignments to ensure a solid understanding of course materials. Conducting research focuses on mathematical optimization, machine learning and artificial intelligence"
     }
   ],
-  "volunteer": [
+  "conf": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
+      "organization": "SIAM Great Lakes Section Annual Meeting",
+      "location": "Detroit, Michigan",
+      "position": "Co-organizer",
+      "url": "https://hli.wayne.edu/conferences/glsiam2022/main.html",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Designing registration platforms, communicating with speakers, and organizing talks."
     }
   ],
   "education": [
@@ -177,15 +172,13 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Boris Mordukhovich",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
+      "reference": "PhD advisor"},
     {
-      "name": "Professor John Doe",
+      "name": "Doctor Pham Duy Khanh",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+      "reference": "PhD advisor"}
   ],
   "projects": [
     {
