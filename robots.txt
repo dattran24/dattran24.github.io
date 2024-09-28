@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://he9180.github.io/sitemap.xml
+Sitemap: https://dattran24.github.io/sitemap.xml
