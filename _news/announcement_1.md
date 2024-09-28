@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: September 26, 2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<p>
+  Our paper, <strong><a href="https://arxiv.org/abs/2401.08060" target="_blank">Fundamental Convergence Analysis of Sharpness-Aware Minimization</a></strong>, has been <strong><span style="color: blue;">accepted</span></strong> in the main conference track of Advances in Neural Information Processing Systems (NeurIPS) 2024.
+</p>
+emoji! :sparkles: :smile:
