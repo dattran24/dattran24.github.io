@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /Teaching/
-description: A list of projects.
+description: A list of courses taught.
 nav: true
 nav_order: 3
 display_categories: [Advanced, Introductory]
