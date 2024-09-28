@@ -42,24 +42,22 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Wayne State University, Detroit",
+      "location": "Michigan, USA",
+      "url": "https://wayne.edu/",
+      "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2020-08-20",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Thesis: Inexact First-order Methods in Convex and Nonconvex Optimization"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Robert and Nancy Irvan Endowed Scholarship in Mathematics",
+      "date": "2024",
+      "awarder": "Wayne State University",
+      "summary": "Recognizing Outstanding Academic Achievements."
     }
   ],
   "certificates": [
@@ -108,25 +106,60 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Fundamental Convergence Analysis of Sharpness-Aware Minimization",
+      "publisher": "Advances in Neural Information Processing Systems",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2401.08060",
+      "summary": "The paper investigates the fundamental convergence properties of Sharpness-Aware Minimization (SAM), a gradient-based optimization method that enhances the generalization of deep neural networks. It establishes convergence properties such as stationarity of accumulation points and convergence of gradients to the optimal value, with extensions to various normalized and unnormalized versions of SAM."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Globally convergent coderivative-based generalized Newton methods in nonsmooth optimization",
+      "publisher": "Mathematical Programming",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/article/10.1007/s10107-023-01980-2",
+      "summary": "This paper proposes two globally convergent Newton-type methods for nonsmooth optimization problems using coderivatives and generalized Hessians. The methods extend the damped Newton method and regularized Newton type algorithms, achieving linear and superlinear convergence rates. Numerical experiments validate the performance of the new algorithms against established methods."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Generalized damped Newton algorithms in nonsmooth optimization via second-order subdifferentials",
+      "publisher": "Journal of Global Optimization",
+      "releaseDate": "2023",
+      "url": "https://link.springer.com/article/10.1007/s10898-022-01248-7",
+      "summary": "This paper develops globally convergent generalized damped Newton algorithms for solving nonsmooth optimization problems using second-order subdifferentials. The authors present numerical results demonstrating the effectiveness of their algorithm on Lasso problems compared to other optimization techniques."
+    },
+    {
+      "name": "Inexact reduced gradient methods in nonconvex optimization",
+      "publisher": "Journal of Optimization Theory and Applications",
+      "releaseDate": "2023",
+      "url": "https://link.springer.com/article/10.1007/s10957-023-02319-9",
+      "summary": "The paper presents new linesearch methods using inexact gradient information to find stationary points in nonconvex optimization. It establishes convergence results under the Kurdyka-Lojasiewicz property and demonstrates advantages of automatically controlled errors in the proposed methods through numerical experiments."
+    },
+    {
+      "name": "A new inexact gradient descent method with applications to nonsmooth convex optimization",
+      "publisher": "Optimization Methods and Software",
+      "releaseDate": "2024",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10556788.2024.2322700",
+      "summary": "This paper introduces a novel inexact gradient descent method for minimizing C1-smooth functions with Lipschitzian gradients. The authors demonstrate convergence of iterates to stationary points and apply the method to develop two novel gradient-based methods for nonsmooth convex optimization, supported by numerical experiments."
+    },
+    {
+      "name": "Inexact proximal methods for weakly convex functions",
+      "publisher": "Journal of Global Optimization",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2307.15596",
+      "summary": "The paper develops inexact proximal methods for finding stationary points of the sum of a smooth function and a nonsmooth weakly convex function. The methods achieve global convergence with constructive rates under the Kurdyka-Lojasiewicz property, supported by convergence analysis."
+    },
+    {
+      "name": "Globally Convergent Derivative-Free Methods in Nonconvex Optimization with and without Noise",
+      "publisher": "Preprint",
+      "releaseDate": "2024",
+      "url": "https://optimization-online.org/?p=26889",
+      "summary": "This paper addresses nonconvex derivative-free optimization problems, proposing methods for minimizing functions with globally Lipschitz continuous gradients. It guarantees convergence under both noiseless and noisy conditions and presents numerical experiments demonstrating the robustness of the proposed algorithms."
+    },
+    {
+      "name": "Local Convergence Analysis for Nonisolated Solutions to Derivative-Free Methods of Optimization",
+      "publisher": "Preprint",
+      "releaseDate": "2024",
+      "url": "https://optimization-online.org/?p=27216",
+      "summary": "This paper investigates local convergence properties of derivative-free optimization methods for nonisolated solutions, providing theoretical insights into their performance."
     }
   ],
   "skills": [
