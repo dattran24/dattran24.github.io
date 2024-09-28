@@ -29,7 +29,7 @@
       "summary": "Teaching at Wayne State University involves preparing and delivering lectures, grading assignments to ensure a solid understanding of course materials. Conducting research focuses on mathematical optimization, machine learning and artificial intelligence"
     }
   ],
-  "conf": [
+  "volunteer": [
     {
       "organization": "SIAM Great Lakes Section Annual Meeting",
       "location": "Detroit, Michigan",
@@ -164,22 +164,19 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer Science",
+      "level": "Experienced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python Programming",
+        "MATLAB Programming",
+        "HTML, CSS, JavaScript Programming"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -191,15 +188,19 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Mathematical Optimization",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Second-, first- and zeroth- order algorithms",
+        "Convex analysis, variational analysis"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Mathematical foundations of machine learning algorithms",
+        "Deep learning, large language models"
       ]
     }
   ],
@@ -210,17 +211,7 @@
       "reference": "PhD advisor"},
     {
       "name": "Doctor Pham Duy Khanh",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "PhD advisor"}
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+      "icon": "fa-solid fa-laptop",
+      "reference": "PhD co-advisor"}
   ]
 }
