@@ -6,6 +6,6 @@ related_posts: false
 ---
 
 <p>
-  Our paper, <strong><a href="https://arxiv.org/abs/2401.08060" target="_blank">Fundamental Convergence Analysis of Sharpness-Aware Minimization</a></strong>, has been <strong><span style="color: blue;">accepted</span></strong> in Advances in Neural Information Processing Systems (NeurIPS) 2024.
+  Our paper, <strong><a href="https://nips.cc/virtual/2024/poster/95276" target="_blank">Fundamental Convergence Analysis of Sharpness-Aware Minimization</a></strong>, has been <strong><span style="color: #2698ba;">accepted</span></strong> in Advances in Neural Information Processing Systems (NeurIPS) 2024.
 </p>
 :sparkles: :smile:

@@ -6,7 +6,7 @@
     {%- if entry.abbr -%}
       {%- assign badge_color = '' -%}
       {%- if entry.abbr == 'Journal' -%}
-        {%- assign badge_color = 'background-color: blue; color: white !important;' -%}
+        {%- assign badge_color = 'background-color: #4c027d; color: white !important;' -%}
       {%- elsif entry.abbr == 'Preprint' -%}
         {%- assign badge_color = 'background-color: gray; color: white !important;' -%}
       {%- elsif site.data.venues[entry.abbr] -%}

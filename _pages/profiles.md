@@ -11,6 +11,10 @@ nav_order: 6
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Toggle Talks Section</title>
     <style>
+        .container {
+            display: flex; /* Flexbox for alignment */
+            align-items: flex-start; /* Center items vertically */
+        }
         .badge {
             display: inline-block;
             padding: 10px 20px;
@@ -28,7 +32,7 @@ nav_order: 6
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Shadow on hover */
         }
         .newbage {
-        background-color: blue; /* Light gray background for the badge */
+        background-color: #2698ba; /* blue gray background for the badge */
         border-radius: 5px; /* Rounded corners */
         padding: 5px 10px; /* Padding inside the badge */
         font-size: 0.8em; /* Slightly smaller font */
@@ -53,6 +57,9 @@ nav_order: 6
             display: block; /* Initially show the content */
             margin-top: 10px; /* Space above the content */
         }
+        .content {
+            line-height: 1.5; /* Space between lines */
+        }
     </style>
     <script>
         function toggleTalks() {
@@ -73,19 +80,23 @@ nav_order: 6
 
 <!-- Content to be toggled -->
 <div id="talks-content">
-    <span class="newbage">PhD Advisor</span>
-    <a href="https://borismordukhovich.com/">Prof. Boris Mordukhovich,</a> Distinguished University Professor of Mathematics, Wayne State University
-    <div>
-        Dissertation: Inexact first-order algorithms in convex and nonconvex optimization
+    <div class="container">
+        <div class="newbage">PhD Advisor</div>
+        <div class="content">
+            <a href="https://borismordukhovich.com/" style="font-weight: bold;">Prof. Boris Mordukhovich,</a> Distinguished University Professor of Mathematics, Wayne State University<br>
+             Dissertation: Inexact first-order algorithms in convex and nonconvex optimization
+        </div>
     </div>
-    <span class="newbage">PhD Advisor</span>
-    <a href="https://sites.google.com/site/khanhpd182/">Dr. Pham Duy Khanh,</a> Ho Chi Minh University of Education
-    <div>
-        PhD Dissertation: Inexact first-order algorithms in convex and nonconvex optimization
+    <div style="margin-top: 20px;"></div> 
+    <div class="container">
+        <div class="newbage">PhD Advisor</div>
+        <div class="content">
+            <a href="https://sites.google.com/site/khanhpd182/" style="font-weight: bold;">Dr. Pham Duy Khanh,</a> Ho Chi Minh University of Education<br>
+            PhD Dissertation: Inexact first-order algorithms in convex and nonconvex optimization<br>
+            Undergraduate Research/Thesis: Some Properties of Gradient Systems
+        </div>
     </div>
-    <div>
-        Undergraduate Research/Thesis: Some Properties of Gradient Systems
-    </div>
+    <div style="margin-top: 20px;"></div> 
 </div>
 
 <div style="margin-top: 20px;"></div> 
@@ -96,36 +107,54 @@ nav_order: 6
 
 <!-- Content to be toggled -->
 <div id="student-content">
-    <span class="newbagest">Undergraduate</span>
-    Bui Ho Kim Anh, Ho Chi Minh City University of Education  (2024/9 - )
-    <div>
-        Student Research: Inexact Difference-of-convex Algorithm (co-supervised with Dr. Pham Duy Khanh)
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+            Bui Ho Kim Anh, Ho Chi Minh City University of Education (2024/9 - )<br>
+            Student Research: Inexact Difference-of-convex Algorithm (co-supervised with Dr. Pham Duy Khanh)
+        </div>
     </div>
-    <span class="newbagest">Undergraduate</span>
-    Tran Trung Tin, Ho Chi Minh City University of Education  (2024/9 - )
-    <div>
-        Student Research: Inexact Difference-of-convex Algorithm (co-supervised with Dr. Pham Duy Khanh)
-    </div>
-    <span class="newbagest">Undergraduate</span>
-    Bui Huynh Tram, Ho Chi Minh City University of Education  (2024/9 - )
-    <div>
-        Student Research: Adaptive finite difference interval estimation for derivative-free optimization (co-supervised with Dr. Pham Duy Khanh)
-    </div>
-    <span class="newbagest">Undergraduate</span>
-    Le Lam Thuan, Ho Chi Minh City University of Education  (2024/9 - )
-    <div>
-        Student Research: Adaptive finite difference interval estimation for derivative-free optimization (co-supervised with Dr. Pham Duy Khanh)
-    </div>
-    <span class="newbagest">Undergraduate</span>
-    Tran Hoang Phi, Ho Chi Minh City University of Education  (2022/6 - 2023/5)
-    <div>
-        Undergraduate Thesis: Subgradient Methods and their Applications (co-supervised with Dr. Pham Duy Khanh)
-    </div>
-    <span class="newbagest">Undergraduate</span>
-    To Hoang Thanh, Ho Chi Minh City University of Education  (2022/6 - 2023/5)
-    <div>
-        Undergraduate Thesis: The Simplex Method for Multiobjective Linear Programming (co-supervised with Dr. Pham Duy Khanh)
-    </div>
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+            Tran Trung Tin, Ho Chi Minh City University of Education  (2024/9 - )<br>
+            Student Research: Inexact Difference-of-convex Algorithm (co-supervised with Dr. Pham Duy Khanh)
+        </div>
+    </div> 
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+            Bui Huynh Tram, Ho Chi Minh City University of Education  (2024/9 - )<br>
+            Student Research: Adaptive finite difference interval estimation for derivative-free optimization (co-supervised with Dr. Pham Duy Khanh)
+        </div>
+    </div> 
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+           Le Lam Thuan, Ho Chi Minh City University of Education  (2024/9 - )<br>
+            Student Research: Adaptive finite difference interval estimation for derivative-free optimization (co-supervised with Dr. Pham Duy Khanh)
+        </div>
+    </div> 
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+            Tran Hoang Phi, Ho Chi Minh City University of Education  (2022/6 - 2023/5)<br>
+            Thesis: Subgradient Methods and their Applications (co-supervised with Dr. Pham Duy Khanh)
+        </div>
+    </div> 
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+        <div class="newbagest">Undergraduate</div>
+        <div class="content">
+            To Hoang Thanh, Ho Chi Minh City University of Education  (2022/6 - 2023/5)<br>
+            Thesis: Simplex Method for Multiobjective Linear Programming (co-supervised with Dr. Pham Duy Khanh)
+        </div>
+    </div> 
+    <div style="margin-top: 20px;"></div>
 </div>
 
 
