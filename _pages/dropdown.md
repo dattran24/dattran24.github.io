@@ -6,8 +6,8 @@ nav_order: 8
 dropdown: true
 children:
   - title: Publications
-    permalink: /publications/
+    permalink: /Publications/
   - title: divider
   - title: Teaching
-    permalink: /projects/
+    permalink: /Teaching/
 ---

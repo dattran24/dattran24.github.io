@@ -37,9 +37,20 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
+    
+    <div class="clearfix">{{ content }}
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons" style="font-size: 2em;">{% include social.liquid %}</div>
 
-    <div class="clearfix">{{ content }}</div>
-
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}    
+    </div>
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -62,19 +73,6 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-
-    {% if site.newsletter.enabled and site.footer_fixed %}
-      {% include scripts/newsletter.liquid center=true %}
     {% endif %}
   </article>
 </div>

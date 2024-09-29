@@ -26,3 +26,7 @@ Hi! I am currently a Ph.D. student at Wayne University, working with <a href='ht
     <li>Mathematical optimization</li>
     <li>Machine learning and statistical learning theory </li>
   </ul> 
+  <div id="clustrmaps-globe" style="width: 1px; height: 1px; overflow: hidden;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iOD0soLc7U5citBAPqy3Hi_MGTKhikhukcwZF4fihSw"></script>
+</div>
+
