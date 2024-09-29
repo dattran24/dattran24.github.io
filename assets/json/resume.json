@@ -29,14 +29,14 @@
       "studyType": "PhD in Applied Mathematics",
       "startDate": "2020-08-20",
       "score": "10",
-      "courses": ["Dissertation: Inexact First-order Methods in Convex and Nonconvex Optimization"]
+      "courses": ["Dissertation: Convex and Nonconvex Optimization under Inexact First-order Information"]
     },
     {
       "institution": "Wayne State University",
       "location": "Detroit, Michigan, USA",
       "url": "https://wayne.edu/",
       "area": "Optimization and Machine Learning",
-      "studyType": "Master of Art in Applied Mathematics",
+      "studyType": "MA in Applied Mathematics",
       "startDate": "2020-08-20",
       "endDate": "2022-12-20",
       "score": "10"
