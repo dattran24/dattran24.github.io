@@ -22,7 +22,7 @@ Ha Noi, Vietnam, July 07 - July 15, 2023
 * [__(contributed) SIAM Conference on Optimization__ (OP23)](https://meetings.siam.org/speakdex.cfm?CONFCODE=OP23),Seattle, Washington, May 31 - June 2, 2023
 * [__(contributed) Midwest Optimization Meeting__ (MOM)](https://www.math.uwaterloo.ca/~hwolkowi/Univ.Waterloo.24thMidwestOptimizationMeeting.html), University of Waterloo, Waterloo, Ontario, Canada, October 28-29, 2022
 * [__(contributed) Great Lakes SIAM annual meeting__ (GLSIAM)](https://hli.wayne.edu/conferences/glsiam2022/main.html), Wayne State University, Detroit, Michigan, USA, September 24, 2022
-* [__(contributed) International Symposium on Generalized Convexity and Monotonicity__ (GCM13)](https://gcm13.imca.edu.pe/index.php), Peru (online), September 13-16, 2022
+* [__(contributed) International Symposium on Generalized Convexity and Monotonicity__ (GCM13)](), Peru (online), September 13-16, 2022
 * [__(contributed) Applied Mathematics and Analysis seminar__](), Wayne State University, April 15, 2024
 * [__(contributed) Midwest Optimization Meeting__ (MOM)](https://facweb.gvsu.edu/ortizron/mom21/index.html), Grand Valley State University, Allendale, Michigan, October 29-30, 2021 
 
