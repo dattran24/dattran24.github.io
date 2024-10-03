@@ -72,9 +72,9 @@ nav_order: 6
 </head>
 <body>
 
-<div style="text-align: right;">
-    <h2 style="display: inline; margin: 0;">Advisors</h2> <!-- Remove margin -->
+<div style="text-align: right; color: #e5e5e5;">
     <hr style="margin: 0; margin-top: 0px;"> <!-- Set margins to 0 and add a small top margin -->
+    <h2 style="display: inline; margin: 0; color: #5c5a5a;">Advisors</h2> <!-- Remove margin -->
 </div>
 
 
@@ -103,8 +103,8 @@ nav_order: 6
 <div style="margin-top: 40px;"></div> 
 
 <div style="text-align: right;">
-    <h2 style="display: inline;">Supervised Students</h2> 
     <hr style="margin: 0; margin-top: 0px;">
+    <h2 style="display: inline; color: #5c5a5a; text-align: right;">Students</h2> 
 </div>
 
 
