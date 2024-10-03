@@ -325,6 +325,12 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
+
+  # Add your talks configuration here
+  talk_bibliography: talks.bib  # Add this line for your talks BibTeX file
+  talk_details_dir: bibliography  # Specify the directory for talk details if needed
+
+  # Filters and other options remain the same
   bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true

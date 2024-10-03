@@ -16,17 +16,15 @@ nav_order: 6
             align-items: flex-start; /* Center items vertically */
         }
         .badge {
-            display: inline-block;
-            padding: 10px 20px;
-            border-radius: 10px; /* Creates the round shape */
-            background: linear-gradient(135deg, #a8cfcb, #1034a6); /* Gradient background */
-            color: white; /* Text color */
-            font-weight: bold;
-            font-size: 0.9em;
-            text-align: center;
-            cursor: pointer; /* Changes cursor to pointer on hover */
-            transition: all 0.3s ease; /* Smooth transition */
-        }
+        display: block; /* Ensures the heading takes up the full width */
+        padding: 10px 20px;
+        background-color: #1034a6; /* Solid background color */
+        color: black; /* Text color */
+        font-weight: bold;
+        font-size: 1.5em; /* Adjust font size for heading */
+        text-align: right; /* Aligns the text to the right */
+        transition: all 0.3s ease; /* Smooth transition */
+}
         .badge:hover {
             transform: translateY(-3px); /* Lift effect on hover */
             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4); /* Shadow on hover */
@@ -74,9 +72,12 @@ nav_order: 6
 </head>
 <body>
 
-<div class="badge" onclick="toggleTalks()">Advisors</div>
+<div style="text-align: right;">
+    <h2 style="display: inline; margin: 0;">Advisors</h2> <!-- Remove margin -->
+    <hr style="margin: 0; margin-top: 0px;"> <!-- Set margins to 0 and add a small top margin -->
+</div>
 
-<div style="margin-top: 20px;"></div> 
+
 
 <!-- Content to be toggled -->
 <div id="talks-content">
@@ -99,11 +100,13 @@ nav_order: 6
     <div style="margin-top: 20px;"></div> 
 </div>
 
-<div style="margin-top: 20px;"></div> 
+<div style="margin-top: 40px;"></div> 
 
-<div class="badge" onclick="togglestudent()">Supervised Students</div>
+<div style="text-align: right;">
+    <h2 style="display: inline;">Supervised Students</h2> 
+    <hr style="margin: 0; margin-top: 0px;">
+</div>
 
-<div style="margin-top: 20px;"></div> 
 
 <!-- Content to be toggled -->
 <div id="student-content">
