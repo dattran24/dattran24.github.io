@@ -4,7 +4,7 @@
     "label": "Ph.D. Student",
     "image": "",
     "email": "tranbadat@wayne.edu",
-    "url": "https://he9180.github.io/",
+    "url": "https://dattran24.github.io/",
     "location": {
       "address": "1252 FAB, 646 W Kirby",
       "postalCode": "MI 48202",
@@ -105,11 +105,11 @@
   ],
   "references": [
     {
-      "name": "Professor Boris Mordukhovich",
+      "name": "Prof. Boris Mordukhovich",
       "icon": "fa-solid fa-laptop",
       "reference": "PhD advisor"},
     {
-      "name": "Doctor Pham Duy Khanh",
+      "name": "Assoc. Prof. Pham Duy Khanh",
       "icon": "fa-solid fa-laptop",
       "reference": "PhD co-advisor"}
   ]
