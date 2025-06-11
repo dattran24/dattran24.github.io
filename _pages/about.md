@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi! I am currently a Ph.D. student at Wayne University, working with <a href='https://borismordukhovich.com/'>Prof. Boris Mordukhovich</a> from the Mathematics department and <a href='https://sites.google.com/site/khanhpd182/'>Dr. Pham Duy Khanh</a> at Ho Chi Minh City University of Education. My recent research interests lie in the intersection of optimization theory and machine learning, including but not limited to:
+Hi! I obtained my Ph.D. from Wayne State University, under the supervision of <a href='https://borismordukhovich.com/'>Prof. Boris Mordukhovich</a> from the Mathematics department and <a href='https://sites.google.com/site/khanhpd182/'>Dr. Pham Duy Khanh</a> at Ho Chi Minh City University of Education. My recent research interests lie in the intersection of optimization theory and machine learning, including but not limited to:
 
 <ul>
     <li>Variational analysis</li>
