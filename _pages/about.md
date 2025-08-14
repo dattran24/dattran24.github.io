@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am an Assistant Professor in Mathematics at <a href='https://www.rowan.edu/'>Rowan University </a>.  I earned my Ph.D. in Applied Mathematics in 2025 at Wayne State University under the supervision of <a href='https://borismordukhovich.com/'>Prof. Boris Mordukhovich</a> and <a href='https://sites.google.com/site/khanhpd182/'>Prof. Pham Duy Khanh</a> at Ho Chi Minh City University of Education. My recent research interests lie at the intersection of optimization theory and machine learning, including, but not limited to:
+I am an Assistant Professor in Mathematics at <a href='https://www.rowan.edu/'>Rowan University.</a> I earned my Ph.D. in Applied Mathematics in 2025 at Wayne State University under the supervision of <a href='https://borismordukhovich.com/'>Prof. Boris Mordukhovich</a> and <a href='https://sites.google.com/site/khanhpd182/'>Prof. Pham Duy Khanh</a> at Ho Chi Minh City University of Education. My recent research interests lie at the intersection of optimization theory and machine learning, including, but not limited to:
 
 <ul>
     <li>Variational analysis</li>
