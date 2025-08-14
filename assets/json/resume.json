@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Dat Ba Tran",
-    "label": "Ph.D. Student",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "tranbadat@wayne.edu",
+    "email": "trandb@rowan.edu",
     "url": "https://dattran24.github.io/",
     "location": {
-      "address": "1252 FAB, 646 W Kirby",
-      "postalCode": "MI 48202",
-      "city": "Detroit",
+      "address": "Robinson Hall",
+      "postalCode": "NJ 08028",
+      "city": "Glassboro",
       "countryCode": "US",
       "region": "MidWest"
     },
