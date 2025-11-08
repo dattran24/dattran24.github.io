@@ -18,6 +18,24 @@ nav_order: 4
   </thead>
   <tbody>
     <tr>
+      <td>Oct, 2025 </td>
+      <td>Convergence and Performance of Finite-difference-based Derivative-free Optimization Methods</td>
+      <td><a href="https://siamnnp2025.sciencesconf.org/">SIAM NNP</a> </td>
+      <td>State College, PA, USA</td>
+    </tr>
+    <tr>
+      <td colspan="4"><hr></td>
+    </tr>
+    <tr>
+      <td>Jul, 2025 </td>
+      <td>Optimization under Inexact Information</td>
+      <td><a href="https://www.hpu2.edu.vn/">Hanoi PU 2</a> </td>
+      <td> Vinh Phuc, Vietnam</td>
+    </tr>
+    <tr>
+      <td colspan="4"><hr></td>
+    </tr>
+    <tr>
       <td>Sep, 2024 </td>
       <td>Fundamental Convergence Analysis of Sharpness-Aware Minimization</td>
       <td><a href="https://events.wayne.edu/2024/09/18/cad-seminar-series-dat-tran-phd-student-wayne-state-university-101025/">CAD Seminar Series</a> </td>

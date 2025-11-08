@@ -111,6 +111,22 @@ nav_order: 6
 <!-- Content to be toggled -->
 <div id="student-content">
     <div class="container">
+            <div class="newbagest">Undergraduate</div>
+            <div class="content">
+                Hoang Anh Nguyen Ba (2025/10 - )<br>
+                Student Research: Frank-Wolfe Projection-free Algorithms for Constrained Minimization Problems
+            </div>
+    </div>
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
+            <div class="newbagest">Undergraduate</div>
+            <div class="content">
+                Peyton Winter (2025/10 - )<br>
+                Student Research: Quasi-Newton Algorithms for Smooth Minimization Problems
+            </div>
+    </div>
+    <div style="margin-top: 20px;"></div>
+    <div class="container">
         <div class="newbagest">Undergraduate</div>
         <div class="content">
             Bui Ho Kim Anh, Ho Chi Minh City University of Education (2024/9 - )<br>
